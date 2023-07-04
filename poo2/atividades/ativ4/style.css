@@ -1,0 +1,30 @@
+.selecao-titulo{
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+}
+
+.botoes{
+    display: block;
+}
+
+.container-inputs {
+    display: flex;
+}
+
+.separator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+}
+
+.menu-brazil, 
+.menu-alemanha{
+    display: inline-block;
+
+}
+
+#esconder {
+    display: none;
+}
